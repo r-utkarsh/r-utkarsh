@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java , HTML and CSS
 - 💞️ I’m looking to collaborate on a Java ,Web D project
 - 📫 How to reach me Instagram handle - utkarsh rastogi💸
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 r-utkarsh/r-utkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
