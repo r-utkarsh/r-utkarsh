@@ -1,3 +1,39 @@
+<div align="center">
+
+<img src="./Github/hero.gif" alt="hero gif" width="320" />
+
+<h1>Greetings, wanderer! I'm Utkarsh!</h1>
+
+<p>
+  <a href="https://x.com/UtkarshRas14290">
+    <img src="https://img.shields.io/badge/X-F3E1DD?style=for-the-badge&logo=x&logoColor=000000&labelColor=F3E1DD" alt="X" />
+  </a>
+  <a href="https://leetcode.com/u/utkarshrast0gi/">
+    <img src="https://img.shields.io/badge/LEETCODE-F2D2CF?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=F2D2CF" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/utkarsh-rastogi-b90410298/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LINKEDIN-EBC7E6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=EBC7E6" alt="LinkedIn" />
+  </a>
+  <a href="mailto:workrastogi@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-C9A9F2?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=C9A9F2" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
