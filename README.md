@@ -2,20 +2,20 @@
 
 <img src="./Github/hero.gif" alt="hero gif" width="320" />
 
-<h1>Greetings, wanderer! I'm Utkarsh!</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight500&size=40&color=E6E1F5&center=true&vCenter=true&repeat=false&width=800&height=70&lines=Greetings,+wanderer!+I%27m+Utkarsh!" alt="Greetings, wanderer! I'm Utkarsh!" />
 
 <p>
-  <a href="https://x.com/UtkarshRas14290">
-    <img src="https://img.shields.io/badge/X-F3E1DD?style=for-the-badge&logo=x&logoColor=000000&labelColor=F3E1DD" alt="X" />
-  </a>
   <a href="https://leetcode.com/u/utkarshrast0gi/">
     <img src="https://img.shields.io/badge/LEETCODE-F2D2CF?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=F2D2CF" alt="LeetCode" />
-  </a>
+  </a>  
   <a href="https://www.linkedin.com/in/utkarsh-rastogi-b90410298/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LINKEDIN-EBC7E6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=EBC7E6" alt="LinkedIn" />
   </a>
   <a href="mailto:workrastogi@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-C9A9F2?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=C9A9F2" alt="Email" />
+  </a>
+  <a href="https://x.com/UtkarshRas14290">
+    <img src="https://img.shields.io/badge/X-F3E1DD?style=for-the-badge&logo=x&logoColor=000000&labelColor=F3E1DD" alt="X" />
   </a>
 </p>
 
@@ -37,21 +37,7 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:0e1726&height=220&section=header&text=UTKARSH%20RASTOGI&fontSize=42&fontColor=00f2fe&fontAlignY=42&desc=Find%20friction.%20Engineer%20the%20solution.%20Ship%20what%20works.&descSize=16&descAlignY=64&descColor=94a3b8" width="100%" alt="Utkarsh Rastogi Banner" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/r-utkarsh">
-    <img src="https://img.shields.io/badge/IDENTITY-ENGINEER%20%26%20BUILDER-00f2fe?style=for-the-badge&labelColor=0b0f19&color=00f2fe" />
-  </a>
-  <a href="https://github.com/r-utkarsh">
-    <img src="https://img.shields.io/badge/SYSTEM-ECE%20%2B%20SOFTWARE-38bdf8?style=for-the-badge&labelColor=0b0f19&color=38bdf8" />
-  </a>
-  <a href="https://github.com/r-utkarsh">
-    <img src="https://img.shields.io/badge/PHILOSOPHY-JUGAAD%20WITH%20RIGOR-06b6d4?style=for-the-badge&labelColor=0b0f19&color=06b6d4" />
-  </a>
-</div>
 
 
 <table>
