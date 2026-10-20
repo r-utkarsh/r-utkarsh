@@ -53,7 +53,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">02 / New Alok Medicose Portal</h3>
+      <h3 align="left">02 / Digital Medical Catalogue</h3>
       <p><b>Friction:</b> Customers travel to local pharmacies only to find their specific medicine or active chemical salt is out of stock.</p>
       <p><b>Engineering:</b> Real-time pharmacy web catalogue with salt-composition search, interactive category indexing, and live Google Place review sync.</p>
       <p><code>Vanilla JS</code> • <code>Firebase Realtime</code> • <code>Google Places API</code> • <code>JSON-LD</code></p>
