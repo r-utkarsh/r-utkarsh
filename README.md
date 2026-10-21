@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Github/hero.gif" alt="hero gif" width="320" />
+<img src="./Github/helloT.gif" alt="hero gif" width="320" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight500&size=40&color=E6E1F5&center=true&vCenter=true&repeat=false&width=800&height=70&lines=Greetings,+wanderer!+I%27m+Utkarsh!" alt="Greetings, wanderer! I'm Utkarsh!" />
 
