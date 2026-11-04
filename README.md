@@ -80,9 +80,3 @@
 
 
 
-
-<details>
-  <summary><b>🔍 [ACCESS PROTOCOL: Inspect System Kernel]</b></summary>
-  <br/>
-  <p align="center"><i>You found the debug log. Thanks for looking deeper.</i></p>
-</details>
