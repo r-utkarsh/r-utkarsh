@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight500&size=40&color=E6E1F5&center=true&vCenter=true&repeat=false&width=800&height=70&lines=Greetings,+wanderer!+I%27m+Utkarsh!" alt="Greetings, wanderer! I'm Utkarsh!" />
 
 <p>
-  <a href="https://leetcode.com/u/utkarshrast0gi/">
+  <!-- <a href="https://leetcode.com/u/utkarshrast0gi/">
     <img src="https://img.shields.io/badge/LEETCODE-F2D2CF?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=F2D2CF" alt="LeetCode" />
-  </a>  
+  </a>   -->
   <a href="https://www.linkedin.com/in/utkarsh-rastogi-b90410298/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LINKEDIN-EBC7E6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=EBC7E6" alt="LinkedIn" />
   </a>
